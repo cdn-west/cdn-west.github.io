@@ -1,0 +1,43 @@
+ebay listing notes
+
+files needed for making ebay or website listings are under the "collection" folder
+depending if you are listing an eBook collection or audiobook collection, see the subfolder for each.
+
+currently we are listing Osprey, so we would go to collection/ebooks/osprey
+From there the files are as follows
+
+
+collection-name.txt
+	this contains the listing title for eBay or the website
+
+ebay.html
+	this contains the raw html needed for posting on eBay. Go to the description tab then select html and paste the html contents
+	see ebay-html.jpg for a screenshot of exactly what I mean if you are confused
+
+main.jpg
+	This should always be the first image on the ebay listings.
+	
+wall.jpg
+	At the moment, this should be the second image on ebay listings
+	
+narrow.jpg
+	Ignore this, this is called from inside the ebay html listings.
+	
+!generic-artwork
+	See below, this will contain images you also need for the listings
+	
+	
+	
+Then there are folders outside of the collection files themselfes. Namely
+
+!artwork-master
+	This is where I will stick things like PSD files for artwork
+	
+!generic-artwork
+	These are generic listing images you should be posting on eBay at the end. After main.jpg and wall.jpg
+	
+	
+When listing to eBay make sure there are NO listing fees. If done right, there should be none. If there are fees. Figure out what they are trying to charge you for. Most likely you selected some kind of highlight or bold title or boost of some sort.
+
+Also, make sure to select your current country or venezuela so nobody will give us any grief. 
+Use the new paypal as the payment receipt source.
